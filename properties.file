@@ -1,0 +1,7 @@
+# Contenido
+[bbdd]
+con.host = host
+con.port = 3306
+con.user = user
+con.password = password
+con.database = database
